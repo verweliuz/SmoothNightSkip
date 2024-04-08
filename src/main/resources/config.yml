@@ -1,0 +1,7 @@
+world-name: "world"
+skipping-speed: 100
+
+on-bed-enter: "<white>%name% <green>лёг<white> спать. Теперь спит <green>%sleeping%<white> из <green>%players%<white> игроков"
+on-bed-leave: "<white>%name% <red>перестал<white> спать. Теперь спит <green>%sleeping%<white> из <green>%players%<white> игроков"
+
+messages-time-in-ms: 5000

@@ -1,0 +1,4 @@
+name: SmoothNightSkip
+version: '${project.version}'
+main: me.verwelius.smoothnightskip.SmoothNightSkip
+api-version: '1.19'
